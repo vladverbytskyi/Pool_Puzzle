@@ -13,7 +13,7 @@ class Boat {
         return length;
     }
     public void move() {
-        System.out.print("Дрейф ");
+        System.out.print("Дрейфф ");
     }
 }
 
